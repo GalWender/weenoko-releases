@@ -10,7 +10,7 @@ Weenoko is a local desktop application. The source repository is maintained sepa
 
 Download the Windows x64 installer from a release below and run it. Existing Weenoko chats and settings remain in the application data directory when installing a newer version.
 
-Updater-enabled versions show the installed version and update controls in the sidebar. Choose **Check for updates**, download an available version, then choose **Restart to update** when your work is finished. An update will wait while agent tasks, pending decisions or background work are active.
+Updater-enabled versions check and download updates in the background. **Restart to update** appears in the sidebar when a verified update is ready. Click the installed version to check manually, see download progress or retry a failed download. Restart when your work is finished; active agent tasks and background operations must finish first. Saved chats, settings and durably waiting approvals remain available after restarting.
 
 Version 1.0.0 predates the updater and requires one manual installation of a newer version.
 
